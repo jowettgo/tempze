@@ -1,0 +1,83 @@
+#ctf-top-bar1 {
+	width: 100%;
+	background-image: url("http://www.tempze.com/wp-content/uploads/2015/02/headerbg.png");
+	height: 85px;
+	border: none;
+}
+
+#ctg-main-header {
+	width: 80%;
+	margin: 0 auto;
+	
+	height: inherit;
+	padding: 0;
+	border:none;
+
+}
+
+#ctf-logo-area {
+
+	width: 20%;
+	height: inherit;
+	padding: 0;
+	margin: 0;
+	float: left;
+	background: transparent;
+	
+}
+
+#ctf-logo-area img {
+	margin: 5px auto;
+	padding: 0;
+
+}
+
+#ctf-main-menus {
+	width: 80%;
+	margin: 0;
+	padding: 0;
+	height: inherit;
+	float: right;
+
+}
+
+#navcontainer {
+	height: inherit;
+	margin: 10px 10px;
+	padding: 0;
+
+}
+
+#navcontainer ul {
+	height: inherit;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	background: transparent;
+} 
+
+#navcontainer ul li {
+	margin: 0;
+	/*padding: 10px; 0 10px 0; */
+	list-style: none;
+	float: right;
+	display: inline-block;
+}
+
+#navcontainer ul li a {
+	color: #565656;
+	text-transform: uppercase;
+	text-decoration: none;
+
+}
+
+#navcontainer ul li a:hover {
+	background-color: #eee;
+
+}
+
+#ctf-nav li:hover {
+	background-color: #eee;
+
+}
+
