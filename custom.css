@@ -81,3 +81,104 @@
 
 }
 
+
+#ctf-topnav {
+ width: 100%;
+ background-image: url('http://www.tempze.com/wp-content/uploads/2015/02/headerbg.png');
+ height: 85px;
+}
+
+div#ctf-topnav ul li a {
+	color: #565656;
+}
+
+#header-bar {
+	margin: 0 auto;
+	width: 80%;
+	padding: 0;
+
+}
+#ctf-logo-area {
+	height: 40px;
+	background: transparent;
+	background-color: #fff;
+	padding: 0px;
+	margin: 0px;
+
+}
+
+h1.ctf-site-title {
+	font-size: 16px;
+	margin: 5px 0 0 10px;
+	padding: 5px;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	text-decoration: none;
+}
+
+#ctf-main  {
+	height: 45px;
+	padding: 0px;
+	margin: 0px;
+	/*background: blue;*/
+} 
+
+
+
+#navcontainer ul li { 
+	display: inline; 
+	height: 40px;
+}
+
+#navcontainer ul li a
+{
+text-decoration: none;
+padding: 10px; 
+color: #565656;
+border-left: 1px solid #DFDADA;
+height:32px;
+
+}
+
+#navcontainer ul li a:hover{
+color: #565656;
+background: white;
+
+}
+
+.widgets-footer .section-head h3 {
+	color: #fff;
+	text-transform: uppercase;
+	font-size: 14px;
+	border:0;
+
+}
+
+#footer p {
+color: #999999!important;
+line-height: 10px;
+font-size: 12px;
+margin-top: 10px!important;
+line-height: 14px;
+}
+
+.srp-post-content {
+color: #999999!important;
+text-decoration: none;
+/* float: left; */
+font-size: 12px;
+/*margin-top: 10px!important;
+font-size: 15px;
+margin-left: 0px!important;*/
+line-height: 14px;
+}
+
+
+.srp-thumbnail-box {
+float: left;
+margin: 0 15px 0px 0;
+}
+
+.widgets-footer .social-media-links li {
+padding-left: 10px;}
+
